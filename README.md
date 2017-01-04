@@ -2,6 +2,13 @@
 A collection of Bootstrap components to make building websites easier.
 
 
+## Dependencies
+
+`Bootstrap 3`
+
+[Bootstrap 3 download link](http://getbootstrap.com/getting-started/#download)
+
+
 ## Project Status
 
 Version 0.1 is currently under active development.
