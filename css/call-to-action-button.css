@@ -2,12 +2,12 @@
 
 .call-to-action-button {
     background: #f1f1f1;
-    padding-top: 10px;
+    padding-top: 15px;
     padding-bottom: 10px;
 }
 
 /* Typograghy */
-.call-to-action-button p {
+.call-to-action-button a  {
     font-size: 1.4em;
     font-family: inherit;
 }
@@ -17,7 +17,7 @@
 /* Small devices (tablets, up to 768px) */
 @media (max-width: 768px) {
     
-    .call-to-action-button p {
+    .call-to-action-button a {
         font-size: 1.2em;
     }
 
