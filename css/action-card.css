@@ -1,0 +1,59 @@
+/* General Styles */
+.action-card-outer-container {
+    background: #f1f1f1;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.action-card {
+    margin: 0 auto;
+}
+
+.action-card-outer-container .action-card .action-card-inner {
+    width: 30%;
+    margin: 0 auto;
+    background: #fff;
+    border: #1144dd solid;
+    padding: 10px 10px 25px 10px;
+}
+
+.action-card-outer-container .action-card .action-card-inner .action-card-head p {
+    font-size: 2.0em;
+    font-weight: 700;    
+}
+
+.action-card-outer-container .action-card .action-card-inner .action-card-image img {
+    max-width: 100%;
+}
+
+.action-card-outer-container .action-card .action-card-inner .action-card-caption {
+     padding-top: 5px;
+}
+
+.action-card-outer-container .action-card .action-card-inner .action-card-caption p {
+    font-size: 1.0em;
+}
+
+.action-card-outer-container .action-card .action-card-inner .action-card-button {
+    padding-top: 10px;
+}
+
+.action-card-outer-container .action-card .action-card-inner .action-card-button a {
+    font-size: 1.0em;
+}
+
+
+/* Media Queries */
+
+/* Small devices (tablets, up to 768px) */
+@media (max-width: 768px) {
+    
+    .action-card-outer-container .action-card .action-card-inner .action-card-head p {
+        font-size: 1.0em;
+    }
+
+    .action-card-outer-container .action-card .action-card-inner .action-card-caption p {
+        font-size: 0.8em;
+    }
+
+}
