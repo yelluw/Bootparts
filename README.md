@@ -1,39 +1,32 @@
 # Bootparts
 A collection of Bootstrap components to make building websites easier.
 
-
 ## Dependencies
 
 `Bootstrap 3`
 
 [Bootstrap 3 download link](http://getbootstrap.com/getting-started/#download)
 
-
 ## Project Status
 
-Version 0.1 is currently under active development.
-
+Version 0.1 has been released.
 
 ## Contributing
 
 I am not accepting contributions at this moment. Thank you for the interest.
 
-
 ## Issues
 
 Will not reply to issues at the moment.
-
 
 ## Support
 
 No support is available.
 The Boostrap docs found [here](http://getbootstrap.com/) should be of help.
 
-
 ## Donations
 
 No donations are accepted or expected.
-
 
 ## License
 
