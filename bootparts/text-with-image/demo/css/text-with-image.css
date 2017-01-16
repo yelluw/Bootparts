@@ -1,0 +1,22 @@
+/* General Styles */
+
+.text-with-image {
+    background: #f1f1f1;
+    padding: 10px 10px 10px 10px;
+}
+
+/* Typograghy */
+.text-with-image p {
+    font-size: 1.5em;
+    font-family: inherit;
+}
+
+/* Media Queries */
+
+/* Small devices (tablets, up to 768px) */
+@media (max-width: 768px) {
+    
+    .text-with-image p {
+        font-size: 1em;
+    }
+}
