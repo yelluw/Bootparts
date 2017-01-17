@@ -11,17 +11,17 @@ A collection of Bootstrap components to make building websites easier.
 
 ## Templates
 
-A landing page that aims to convert your traffic and introduce them into your sales funnel.
+#### A landing page that aims to convert your traffic and introduce them into your sales funnel.
 
-![hero-landing-page](https://cloud.githubusercontent.com/assets/23017027/22009885/49252460-dc5c-11e6-80c8-ca29d84d34b8.png)
+<img src="https://cloud.githubusercontent.com/assets/23017027/22009885/49252460-dc5c-11e6-80c8-ca29d84d34b8.png" height="25%" width="25%">
 
-An page for your app. Simple and features a non-intrusive call to action
+#### An page for your app. Simple and features a non-intrusive call to action
 
-![app-feature-page](https://cloud.githubusercontent.com/assets/23017027/22009888/4d5e95de-dc5c-11e6-9c3e-90cdb5130c93.png)
+<img src="https://cloud.githubusercontent.com/assets/23017027/22009888/4d5e95de-dc5c-11e6-9c3e-90cdb5130c93.png" height="25%" width="25%">
 
-A page for your book or e-book. With clear call to actions and a subscribe form on the footer.
+#### A page for your book or e-book. With clear call to actions and a subscribe form on the footer.
 
-![book-feature-page](https://cloud.githubusercontent.com/assets/23017027/22009880/41af6736-dc5c-11e6-8244-710d0f07112b.png)
+<img src="https://cloud.githubusercontent.com/assets/23017027/22009880/41af6736-dc5c-11e6-8244-710d0f07112b.png" height="25%" width="25%">
 
 ## Dependencies
 
