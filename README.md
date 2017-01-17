@@ -3,7 +3,7 @@ A collection of Bootstrap components that make building websites much easier.
 
 ## Features
 
-- Ready-to-use components responsive components.
+- Ready-to-use responsive components.
 
 - Minimized CSS that makes including it in your website simple.
 
