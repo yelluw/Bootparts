@@ -1,5 +1,5 @@
 # Bootparts
-A collection of Bootstrap components to make building websites easier.
+A collection of Bootstrap components that make building websites much easier. 
 
 ## Features
 
@@ -8,6 +8,8 @@ A collection of Bootstrap components to make building websites easier.
 - Minimized CSS that makes including it in your website simple.
 
 - Three complete templates that you can use for your project.
+
+- No need to use Javascript. Jquery is included along with Bootstrap's JS for convenience. But its not required for anything.
 
 ## Templates
 
