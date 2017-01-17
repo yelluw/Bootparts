@@ -9,7 +9,7 @@ A collection of Bootstrap components to make building websites easier.
 
 ## Project Status
 
-Version 0.1 has been released.
+Version 0.2 has been released.
 
 ## Contributing
 
