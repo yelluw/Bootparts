@@ -15,7 +15,7 @@ A collection of Bootstrap components to make building websites easier.
 
 <img src="https://cloud.githubusercontent.com/assets/23017027/22009885/49252460-dc5c-11e6-80c8-ca29d84d34b8.png" height="25%" width="25%">
 
-#### An page for your app. Simple and features a non-intrusive call to action
+#### A page for your app. Simple and features a non-intrusive call to action.
 
 <img src="https://cloud.githubusercontent.com/assets/23017027/22009888/4d5e95de-dc5c-11e6-9c3e-90cdb5130c93.png" height="25%" width="25%">
 
