@@ -1,0 +1,24 @@
+/*
+
+    Hero Landing Page template styles.
+    
+*/
+
+
+/****** Override Bootparts styles ******/
+
+.hero-subscription-form .right-bottom .form-container {
+    border-radius: 0px;
+    padding-bottom: 20px;
+}
+
+.image-with-text, .text-with-image {
+    background: #fff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.three-column-content {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
