@@ -1,6 +1,28 @@
 # Bootparts
 A collection of Bootstrap components to make building websites easier.
 
+## Features
+
+- Ready-to-use components responsive components.
+
+- Minimized CSS that makes including it in your website simple.
+
+- Three complete templates that you can use for your project.
+
+## Templates
+
+A landing page that aims to convert your traffic and introduce them into your sales funnel.
+
+![hero-landing-page](https://cloud.githubusercontent.com/assets/23017027/22009885/49252460-dc5c-11e6-80c8-ca29d84d34b8.png)
+
+An page for your app. Simple and features a non-intrusive call to action
+
+![app-feature-page](https://cloud.githubusercontent.com/assets/23017027/22009888/4d5e95de-dc5c-11e6-9c3e-90cdb5130c93.png)
+
+A page for your book or e-book. With clear call to actions and a subscribe form on the footer.
+
+![book-feature-page](https://cloud.githubusercontent.com/assets/23017027/22009880/41af6736-dc5c-11e6-8244-710d0f07112b.png)
+
 ## Dependencies
 
 `Bootstrap 3`
