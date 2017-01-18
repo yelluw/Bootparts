@@ -25,6 +25,10 @@ A collection of Bootstrap components that make building websites much easier.
 
 <img src="https://cloud.githubusercontent.com/assets/23017027/22009880/41af6736-dc5c-11e6-8244-710d0f07112b.png" height="25%" width="25%">
 
+#### A page for your open source project. It features the things you need with no unnecessary overhead.
+
+<img src="https://cloud.githubusercontent.com/assets/23017027/22057312/97d622ec-dd3a-11e6-9b8d-16f0242a8b16.png" height="25%" width="25%">
+
 ## Dependencies
 
 `Bootstrap 3`
@@ -33,7 +37,7 @@ A collection of Bootstrap components that make building websites much easier.
 
 ## Project Status
 
-Version 0.2 has been released.
+Version 0.3 has been released.
 
 ## Contributing
 
