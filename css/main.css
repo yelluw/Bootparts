@@ -4,8 +4,31 @@
     
 */
 
+/****** Fonts ******/
+
+ @import url('https://fonts.googleapis.com/css?family=Raleway');
+
+ body {
+    font-family: 'Raleway', sans-serif;
+ }
+
 
 /****** Override Bootparts styles ******/
+.hero-brand-two-buttons {
+    background: #fff;
+}
+
+.hero-brand-two-buttons .logo {
+    border: 5px #0275d8 solid;
+    border-radius: 10px;
+    color: #0275d8;
+}
+
+.hero-brand-two-buttons .caption p {
+    color: #666;
+}
+
+
 .center-aligned-headline, .center-aligned-headline .headline {
     padding-top: 30px;
     padding-bottom: 0px;
@@ -31,4 +54,8 @@
     color: #000;
     font-weight: 400;
     font-size: 0.7em;
+}
+
+.column-emoji {
+    font-size: 4.0em;
 }
