@@ -41,7 +41,7 @@ A collection of Bootstrap components that make building websites much easier.
 
 ## Project Status
 
-Version 0.3 has been released.
+Version 0.4 has been released.
 
 ## Contributing
 
