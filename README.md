@@ -29,6 +29,10 @@ A collection of Bootstrap components that make building websites much easier.
 
 <img src="https://cloud.githubusercontent.com/assets/23017027/22057312/97d622ec-dd3a-11e6-9b8d-16f0242a8b16.png" height="25%" width="25%">
 
+#### A page for your technical documentation. Featuring a two column layout with no header or footer.
+
+<img src="https://cloud.githubusercontent.com/assets/23017027/22137244/3d4814a8-deb0-11e6-8bb2-02b78256cadf.png" height="25%" width="25%">
+
 ## Dependencies
 
 `Bootstrap 3`

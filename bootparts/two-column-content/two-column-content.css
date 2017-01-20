@@ -1,17 +1,20 @@
 /* General Styles */
-.one-column-content {
+.two-column-content {
     background: #f1f1f1;
-    padding-top: 45px;
-    padding-bottom: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 /*
     Typography
 */
 
-.one-column-content p {
-    font-size: 1.4em;
-    line-height: 2.0em;
+.two-column-content .left-column p {
+    font-size: 0.9em;
+}
+
+.two-column-content .right-column p {
+    font-size: 1.3em;
 }
 
 /* 
@@ -23,8 +26,11 @@
 /* Small devices (tablets, up to 768px) */
 @media (max-width: 768px) {
 
-    .one-column-content p {
-        font-size: 1.1em;
+    .two-column-content .left-column p {
+        font-size: 0.7em;
     }
 
+    .two-column-content .right-column p {
+        font-size: 1.1em;
+    }
 }
