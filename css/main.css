@@ -59,3 +59,37 @@
 .column-emoji {
     font-size: 4.0em;
 }
+
+
+/*
+
+    Technical Documentation Page template styles.
+    
+*/
+
+
+/****** Override Bootparts styles ******/
+
+.two-column-content {
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+.two-column-content .left-column {
+    padding-top: 22px;
+}
+
+/****** Template custom styles ******/
+
+.tech-docs-body {
+    background: #f1f1f1;
+    font-family: sans-serif;
+}
+
+.two-column-content .right-column h1 {
+    padding-bottom: 20px;
+}
+
+.two-column-content .right-column p {
+    font-size: 1.3em;
+}
