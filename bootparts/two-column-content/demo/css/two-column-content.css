@@ -1,0 +1,36 @@
+/* General Styles */
+.two-column-content {
+    background: #f1f1f1;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/*
+    Typography
+*/
+
+.two-column-content .left-column p {
+    font-size: 0.9em;
+}
+
+.two-column-content .right-column p {
+    font-size: 1.3em;
+}
+
+/* 
+
+    Media Queries 
+
+*/
+
+/* Small devices (tablets, up to 768px) */
+@media (max-width: 768px) {
+
+    .two-column-content .left-column p {
+        font-size: 0.7em;
+    }
+
+    .two-column-content .right-column p {
+        font-size: 1.1em;
+    }
+}
