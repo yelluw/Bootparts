@@ -6,7 +6,7 @@
 
 /****** Fonts ******/
 
- @import url('https://fonts.googleapis.com/css?family=Raleway');
+ @import url('https://fonts.googleapis.com/css?family=Raleway|Droid+Sans');
 
  body {
     font-family: 'Raleway', sans-serif;
@@ -82,14 +82,55 @@
 /****** Template custom styles ******/
 
 .tech-docs-body {
-    background: #f1f1f1;
-    font-family: sans-serif;
+    background: #fff;
+    font-family: 'Droid Sans', sans-serif;
+}
+
+.two-column-content {
+    background: #fff;
 }
 
 .two-column-content .right-column h1 {
     padding-bottom: 20px;
 }
 
+.two-column-content .right-column h3 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
 .two-column-content .right-column p {
     font-size: 1.3em;
+}
+
+/*
+    FAQ
+*/
+
+.faq-question {
+    font-weight: 700;
+    padding-top: 20px;
+}
+
+.faq-answer {
+    padding-top: 15px;
+}
+
+/*
+    Components
+*/
+
+.component-title {
+    font-weight: 700;
+    font-size: 1.3em;
+    border-bottom: dotted 1px #000;
+}
+
+.component-body {
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+
+.component-img {
+
 }
