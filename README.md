@@ -1,3 +1,5 @@
+[![Version](https://img.shields.io/badge/version-v0.4-blue.svg)]()
+
 https://img.shields.io/badge/version-v0.4-blue.svg
 
 # Bootparts
