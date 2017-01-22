@@ -1,7 +1,5 @@
 [![Version](https://img.shields.io/badge/version-v0.4-blue.svg)]()
 
-https://img.shields.io/badge/version-v0.4-blue.svg
-
 # Bootparts
 A collection of Bootstrap 3 components that simplify the process of building websites.
 
