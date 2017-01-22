@@ -5,7 +5,7 @@ A collection of Bootstrap 3 components that simplify the process of building web
 
 ## Documentation
 
-[CLick here to visit the official documentation page.](https://yelluw.github.io/Bootparts/documentation)
+[Click here to visit the official documentation page.](https://yelluw.github.io/Bootparts/documentation)
 
 ## Features
 
