@@ -1,5 +1,7 @@
+https://img.shields.io/badge/version-v0.4-blue.svg
+
 # Bootparts
-A collection of Bootstrap components that make building websites much easier. 
+A collection of Bootstrap 3 components that simplify the process of building websites.
 
 ## Features
 
@@ -41,15 +43,16 @@ A collection of Bootstrap components that make building websites much easier.
 
 ## Project Status
 
+Under active development.
 Version 0.4 has been released.
 
 ## Contributing
 
-I am not accepting contributions at this moment. Thank you for the interest.
+We are not accepting contributions at this moment. Thank you for the interest.
 
 ## Issues
 
-Will not reply to issues at the moment.
+Will not reply to issues not related to bugs at the moment.
 
 ## Support
 
@@ -64,7 +67,7 @@ No donations are accepted or expected.
 
     MIT License
 
-    Copyright (c) 2017 Pablo Rivera
+    Copyright (c) 2017 Pablo Rivera Yelluw
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
