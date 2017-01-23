@@ -99,7 +99,7 @@
     padding-bottom: 20px;
 }
 
-.two-column-content .right-column p {
+.two-column-content .right-column p, ol, ul {
     font-size: 1.3em;
 }
 
@@ -148,7 +148,7 @@
         font-size: 1.0em;
     }
 
-    .two-column-content .right-column p {
+    .two-column-content .right-column p, ol, ul {
         font-size: 0.9em;
 
     }
