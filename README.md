@@ -21,21 +21,31 @@ A collection of Bootstrap 3 components that simplify the process of building web
 
 #### A landing page that aims to convert your traffic and introduce them into your sales funnel.
 
+[DEMO](https://yelluw.github.io/Bootparts/templates/hero-landing-page/hero-landing-page.html)
+
 <img src="https://cloud.githubusercontent.com/assets/23017027/22009885/49252460-dc5c-11e6-80c8-ca29d84d34b8.png" height="25%" width="25%">
 
 #### A page for your app. Simple and features a non-intrusive call to action.
+
+[DEMO](https://yelluw.github.io/Bootparts/templates/app-feature-page/app-feature-page.html)
 
 <img src="https://cloud.githubusercontent.com/assets/23017027/22009888/4d5e95de-dc5c-11e6-9c3e-90cdb5130c93.png" height="25%" width="25%">
 
 #### A page for your book or e-book. With clear call to actions and a subscribe form on the footer.
 
+[DEMO](https://yelluw.github.io/Bootparts/templates/book-feature-page/book-feature-page.html)
+
 <img src="https://cloud.githubusercontent.com/assets/23017027/22009880/41af6736-dc5c-11e6-8244-710d0f07112b.png" height="25%" width="25%">
 
 #### A page for your open source project. It features the things you need with no unnecessary overhead.
 
+[DEMO](https://yelluw.github.io/Bootparts/templates/open-source-project-page/open-source-project-page.html)
+
 <img src="https://cloud.githubusercontent.com/assets/23017027/22057312/97d622ec-dd3a-11e6-9b8d-16f0242a8b16.png" height="25%" width="25%">
 
 #### A page for your technical documentation. Featuring a two column layout with no header or footer.
+
+[DEMO](https://yelluw.github.io/Bootparts/templates/technical-documentation-page/technical-documentation-page.html)
 
 <img src="https://cloud.githubusercontent.com/assets/23017027/22137244/3d4814a8-deb0-11e6-8bb2-02b78256cadf.png" height="25%" width="25%">
 
