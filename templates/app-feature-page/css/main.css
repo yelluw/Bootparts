@@ -1,0 +1,19 @@
+/*
+
+    App Feature Page template styles.
+    
+*/
+
+
+/****** Override Bootparts styles ******/
+
+.call-to-action-bar {
+    padding-top: 20px;
+    padding-bottom: 20px; 
+}
+
+.image-with-text {
+    background: #fff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}

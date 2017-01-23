@@ -1,0 +1,34 @@
+/*
+
+    Open Source Project Page template styles.
+    
+*/
+
+
+/****** Override Bootparts styles ******/
+.center-aligned-headline, .center-aligned-headline .headline {
+    padding-top: 30px;
+    padding-bottom: 0px;
+    background: #fff;
+}
+
+.three-column-content {
+    background: #fff;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+
+.call-to-action-button {
+    padding-top: 0px;
+    padding-bottom: 30px;
+    background: #fff;
+}
+
+
+/****** Template custom styles ******/
+
+.headline-content {
+    color: #000;
+    font-weight: 400;
+    font-size: 0.7em;
+}
