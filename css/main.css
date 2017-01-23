@@ -137,19 +137,19 @@
 @media (max-width: 768px) {
     
     .two-column-content .left-column {
-        font-size: 0.6em;
+        font-size: 0.7em;
     }
 
     .two-column-content .right-column h1 {
-        font-size: 1.0em;
+        font-size: 1.1em;
     }
 
     .two-column-content .right-column h3 {
-        font-size: 0.9em;
+        font-size: 1.0em;
     }
 
     .two-column-content .right-column p {
-        font-size: 0.8em;
+        font-size: 0.9em;
 
     }
 
