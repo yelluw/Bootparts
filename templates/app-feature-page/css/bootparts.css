@@ -1,5 +1,5 @@
 /* 
-Bootparts version 0.4
+Bootparts version 0.5
 
 This CSS file includes all the styles
 used by the components to simplify things.
@@ -736,4 +736,27 @@ SOFTWARE.
     .two-column-content .right-column p {
         font-size: 1.1em;
     }
+}
+
+/****** Two Row Squares ******/
+
+/* General Styles */ 
+
+.two-row-squares {
+    background: #f1f1f1;
+}
+
+/* 
+
+    Rows
+
+*/
+
+.top-row {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.bottom-row {
+    padding-bottom: 30px;
 }
