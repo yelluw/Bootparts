@@ -1,4 +1,4 @@
-[![Version](https://img.shields.io/badge/version-v0.4-blue.svg)]()
+[![Version](https://img.shields.io/badge/version-v0.5-blue.svg)]()
 
 # Bootparts
 A collection of Bootstrap 3 components that simplify the process of building websites.
@@ -58,7 +58,7 @@ A collection of Bootstrap 3 components that simplify the process of building web
 ## Project Status
 
 Under active development.
-Version 0.4 has been released.
+Version 0.5 has been released.
 
 ## Contributing
 
