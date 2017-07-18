@@ -1,4 +1,4 @@
-[![Version](https://img.shields.io/badge/version-v0.5-blue.svg)]()
+[![Version](https://img.shields.io/badge/version-v0.6-blue.svg)]()
 
 # Bootparts
 A collection of Bootstrap 3 components that simplify the process of building websites.
@@ -13,7 +13,7 @@ A collection of Bootstrap 3 components that simplify the process of building web
 
 - Minimized CSS that makes including it in your website simple.
 
-- Three complete templates that you can use for your project.
+- Six complete templates that you can use for your project.
 
 - No need to use Javascript. Jquery is included along with Bootstrap's JS for convenience. But its not required for anything.
 
@@ -58,7 +58,7 @@ A collection of Bootstrap 3 components that simplify the process of building web
 ## Project Status
 
 Under active development.
-Version 0.5 has been released.
+Version 0.6 has been released.
 
 ## Contributing
 

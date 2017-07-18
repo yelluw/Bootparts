@@ -1,5 +1,5 @@
 /* 
-Bootparts version 0.5
+Bootparts version 0.6
 
 This CSS file includes all the styles
 used by the components to simplify things.
@@ -759,4 +759,37 @@ SOFTWARE.
 
 .bottom-row {
     padding-bottom: 30px;
+}
+
+/****** Hero Background Image ******/
+
+/* General Styles */
+
+.hero-background-image {
+  height: 600px;
+  width: 100%;
+  background: url(../img/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+/* Typography */
+
+.hero-background-image .headline {
+  color: #fff;
+  font-size: 3em;
+  padding-top: 250px;
+}
+
+/* Media Queries */
+
+/* Small devices (tablets, up to 768px) */
+@media (max-width: 768px) {
+    .hero-background-image .headline {
+        font-size:2.0em;
+        padding-top: 175px;
+        text-align: center;
+    }
 }
