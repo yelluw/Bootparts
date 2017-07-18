@@ -1,0 +1,25 @@
+/*
+
+   Agency Landing Page template styles.
+    
+*/
+
+
+/****** Override Bootparts styles ******/
+.hero-background-image {
+    height: 450px;
+    margin-bottom: 20px;
+
+}
+
+.hero-background-image .headline {
+    color: #fff;
+    font-weight: 700;
+    padding-top: 190px;
+}
+
+.two-column-footer {
+    margin-top: 20px;
+}
+/****** Template custom styles ******/
+
